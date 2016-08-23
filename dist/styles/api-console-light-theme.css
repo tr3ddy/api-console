@@ -1658,7 +1658,7 @@ th {
 }
 
 .raml-console-tab-options::before {
-  background: #1EBD77;
+  background: #0B9E4C;
   content: '';
   height: 45px;
   border-radius: 4px;
@@ -1726,7 +1726,7 @@ th {
 
 .raml-console-tab:hover .raml-console-tab-options::before,
 .raml-console-resource:not(.raml-console-is-active) .raml-console-tab.raml-console-is-hovered .raml-console-tab-options::before {
-  background: #59e5a7;
+  background: #0ECA61;
 }
 
 .raml-console-tab:hover .raml-console-tab-trace::before,
@@ -3238,12 +3238,12 @@ root
 
 .raml-console-sidebar-action-options {
   width: 130px;
-  background-color: #1EBD77;
+  background-color: #0B9E4C;
   letter-spacing: 2px;
 }
 
 .raml-console-sidebar-action-options:hover {
-  background-color: #59e5a7;
+  background-color: #0ECA61;
 }
 
 .raml-console-sidebar-action-trace {
