@@ -1356,7 +1356,7 @@ th {
   padding: 10px 12px 12px;
   border: 1px solid #ccc;
   background-color: #f3f4f5;
-  color: #aaa;
+  color: #000;
   cursor: pointer;
   font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -2172,6 +2172,10 @@ a.raml-console-resource-path-active {
   .raml-console-resource-heading {
     font-size: 18px;
   }
+}
+
+.raml-console-is-active .raml-console-resource-heading {
+  color: #ABDFFD;
 }
 
 .raml-console-resource-heading-large {

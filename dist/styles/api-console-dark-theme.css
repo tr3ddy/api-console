@@ -2174,6 +2174,10 @@ a.raml-console-resource-path-active {
   }
 }
 
+.raml-console-is-active .raml-console-resource-heading {
+  color: #ABDFFD;
+}
+
 .raml-console-resource-heading-large {
   font-size: 10px;
 }
