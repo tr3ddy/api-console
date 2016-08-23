@@ -3,6 +3,6 @@ $medium-screen: 600px;
 
 // Fonts
 
-$lato: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif', 'Liberation Serif", Georgia, serif;
+$lato: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: $lato;
 $monospace: "Courier New", monospace;

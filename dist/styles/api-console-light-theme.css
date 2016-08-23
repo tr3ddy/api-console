@@ -1202,7 +1202,7 @@ th {
 .raml-console-body {
   background: #fafafa;
   color: #888;
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1.4;
   text-rendering: optimizeLegibility;
@@ -1249,7 +1249,7 @@ th {
 .raml-console-embedded {
   background: #fafafa !important;
   color: #888;
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1.4;
   text-rendering: optimizeLegibility;
@@ -1358,7 +1358,7 @@ th {
   background-color: #f3f4f5;
   color: #000;
   cursor: pointer;
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   transition: 0.2s ease color, 0.2s ease border-color;
@@ -1420,7 +1420,7 @@ th {
   background-color: #e3e4e6;
   color: #999;
   cursor: pointer;
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   text-align: center;
@@ -2370,7 +2370,7 @@ root
 }
 
 .raml-console-resource-panel-primary p {
-  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif', 'Liberation Serif", Georgia, serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .raml-console-resource-panel-primary a {
@@ -2451,7 +2451,7 @@ root
 
 .raml-console-resource-panel-description .raml-console-description {
   margin-bottom: 0;
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
 }
 
@@ -2583,7 +2583,7 @@ root
 }
 
 .raml-console-resource-param-example {
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .raml-console-resource-param-example b {
@@ -2610,7 +2610,7 @@ root
   background-color: #f3f4f5;
   color: #257dcf;
   cursor: pointer;
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 700;
   transition: 0.2s ease color, 0.2s ease border-color;
@@ -3163,7 +3163,7 @@ root
   border-radius: 3px;
   color: #fff;
   cursor: pointer;
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 900;
   transition: 0.2s ease background-color;
   -webkit-font-smoothing: antialiased;
@@ -3297,7 +3297,7 @@ root
   border-radius: 4px;
   background-color: #f3f4f5;
   cursor: pointer;
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
   font-weight: 700;
   transition: 0.2s ease color, 0.2s ease border-color;
@@ -4187,7 +4187,7 @@ span.raml-console-side-bar-required-field {
   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.2), rgba(0, 0, 0, 0.1));
   color: #fff;
   cursor: pointer;
-  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: 900;
   transition: 0.2s ease background-color;
