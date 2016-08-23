@@ -11,7 +11,7 @@ $color-gray-dark: #ccc;
 
 $color-navy-dark: #2d2d30;
 $color-navy: #414247;
-$color-navy-light: #585961;
+$color-navy-light: #444;
 
 // pale is gray with a bluish tint I KNOW I AM RIFICULOUS
 $color-pale-dark: #d6d7d9;
@@ -25,7 +25,7 @@ $color-purps-dark: #888a99;
 // Light/Original Theming:
 //----------------------------------------------------------------------------
 
-$color-console-documentation-header: #e0e0e0;
+$color-console-documentation-header: rgb(240,240,240);
 $color-console-documentation-contents: #f5f5f5;
 $color-console-response-status: #fff;
 $color-editor-border: #c6cada;
@@ -33,9 +33,9 @@ $color-body-heading: #bbbbbb;
 $color-toggle-all: #b7b7b7;
 
 // console or resource path view
-$color-console-bg: #eee;
+$color-console-bg: #fafafa;
 $color-console-border: #ccc;
-$color-console-heading-text: #333;
+$color-console-heading-text: #03ADFD;
 $color-console-toggle: #333;
 
 $color-console-flag-bg: #e3e4e6;
@@ -77,12 +77,12 @@ $color-resource-bg: #fff;
 $color-resource-border: #ccc;
 
 $color-resource-path-active: #fff;
-$color-resource-path-active-bg: #2d2d30;
-$color-resource-path-active-border: #2d2d30;
+$color-resource-path-active-bg: #03ADFD;
+$color-resource-path-active-border: #03ADFD;
 
 $color-resource-close-bg: $color-resource-path-active-bg;
-$color-resource-close: $color-purps-dark;
-$color-resource-close-bg-hover: $color-purps;
+$color-resource-close: $color-resource-path-active;
+$color-resource-close-bg-hover: $color-resource-path-active;
 
 $color-flag-bg: #fafafa;
 $color-flag-border: #eaeced;
@@ -91,7 +91,7 @@ $color-flag-text-bold: #888;
 
 $color-resource-subheader-border: #e1e1e1;
 
-$color-resource-heading: #4c5272;
+$color-resource-heading: #333;
 
 $color-resource-text: #333;
 

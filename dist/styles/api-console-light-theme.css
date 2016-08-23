@@ -1200,7 +1200,7 @@ th {
 }
 
 .raml-console-body {
-  background: #eee;
+  background: #fafafa;
   color: #888;
   font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
@@ -1247,7 +1247,7 @@ th {
 }
 
 .raml-console-embedded {
-  background: #eee !important;
+  background: #fafafa !important;
   color: #888;
   font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
@@ -1259,7 +1259,7 @@ th {
 .raml-console-title {
   font-size: 24px;
   text-align: center;
-  color: #333;
+  color: #03ADFD;
 }
 
 @media only screen and (min-width: 600px) {
@@ -1941,8 +1941,8 @@ ol.raml-console-resources-container {
 .raml-console-resource.raml-console-is-active {
   min-height: 50px;
   margin: 10px 0 0;
-  border-color: #2d2d30;
-  background: #2d2d30;
+  border-color: #03ADFD;
+  background: #03ADFD;
 }
 
 @media only screen and (min-width: 600px) {
@@ -2005,7 +2005,7 @@ ol.raml-console-resources-container {
   border-radius: 5px;
   border: none;
   background: transparent;
-  color: #888a99;
+  color: #fff;
   font-size: 10px;
   text-transform: uppercase;
   transition: 0.2s ease color;
@@ -2023,7 +2023,7 @@ ol.raml-console-resources-container {
 }
 
 .raml-console-resource-close-btn:hover {
-  color: #9ea0ad;
+  color: #fff;
 }
 
 .raml-console-resource-list-root > .raml-console-resource-list-item.raml-console-is-active + .raml-console-resource-list-item {
@@ -2235,24 +2235,24 @@ a.raml-console-resource-path-active {
 }
 
 .raml-console-resource-path-active {
-  color: #333;
+  color: #03ADFD;
 }
 
 .raml-console-resource-proxy {
   position: absolute;
   right: 5px;
-  color: #585961;
+  color: #444;
   font-size: 13px;
   margin-bottom: 5px;
   z-index: 1;
 }
 
 .raml-console-resource-proxy a {
-  color: #585961;
+  color: #444;
 }
 
 .raml-console-resource-proxy a:visited {
-  color: #585961;
+  color: #444;
 }
 
 .raml-console-resource-no-baseuri {
@@ -2274,7 +2274,7 @@ a.raml-console-resource-path-active {
   border-top: 1px solid #f1f1f1;
   border-bottom: 1px solid #f1f1f1;
   background: #fafafa;
-  color: #585961;
+  color: #444;
 }
 
 .raml-console-resource-head {
@@ -2510,7 +2510,7 @@ root
 
 .raml-console-resource-heading-a {
   margin: 0 0 18px;
-  color: #4c5272;
+  color: #333;
   font-size: 16px;
   font-weight: 900;
   letter-spacing: 0.1em;
@@ -2651,7 +2651,7 @@ root
 .raml-console-toggle-button,
 .raml-console-toggle-button:visited,
 .raml-console-toggle-button:active {
-  color: #585961;
+  color: #444;
   text-decoration: none;
   text-transform: capitalize;
   font-size: 12px;
@@ -3019,7 +3019,7 @@ root
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
   background: #ddd;
-  color: #585961;
+  color: #444;
 }
 
 .raml-console-sidebar-header .raml-console-resource-btn {
@@ -3091,7 +3091,7 @@ root
   border-top: 2px solid #d6d7d9;
   border-width: 1px 0;
   position: relative;
-  color: #585961;
+  color: #444;
   font-size: 13px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -4127,7 +4127,7 @@ span.raml-console-side-bar-required-field {
   border-top: 2px solid #d6d7d9;
   border-width: 1px 0;
   position: relative;
-  color: #585961;
+  color: #444;
   font-size: 13px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -4204,7 +4204,7 @@ span.raml-console-side-bar-required-field {
   font-size: 10px;
   background-color: #b7b7b7;
   border: 0;
-  color: #878787;
+  color: #fafafa;
   font-weight: bold;
   border-radius: 0;
   position: absolute;
@@ -4295,8 +4295,8 @@ span.raml-console-side-bar-required-field {
 .raml-console-documentation-active .raml-console-document-header {
   min-height: 50px;
   margin: 10px 0 0;
-  border-color: #2d2d30;
-  background: #2d2d30;
+  border-color: #03ADFD;
+  background: #03ADFD;
 }
 
 @media only screen and (min-width: 600px) {
@@ -4310,7 +4310,7 @@ span.raml-console-side-bar-required-field {
 }
 
 .raml-console-documentation-header {
-  background: #e0e0e0;
+  background: #f0f0f0;
   position: relative;
 }
 
