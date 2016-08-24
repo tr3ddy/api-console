@@ -2242,6 +2242,10 @@ a.raml-console-resource-path-active {
   color: #03ADFD;
 }
 
+h2 span.raml-console-resource-path-active {
+  color: #fff;
+}
+
 .raml-console-resource-proxy {
   position: absolute;
   right: 5px;
@@ -4206,7 +4210,7 @@ span.raml-console-side-bar-required-field {
 .raml-console-toggle-all {
   text-transform: capitalize;
   font-size: 10px;
-  background-color: #b7b7b7;
+  background-color: #64B4F8;
   border: 0;
   color: #fafafa;
   font-weight: bold;
@@ -4314,7 +4318,8 @@ span.raml-console-side-bar-required-field {
 }
 
 .raml-console-documentation-header {
-  background: #f0f0f0;
+  background: #03ADFD;
+  color: white;
   position: relative;
 }
 

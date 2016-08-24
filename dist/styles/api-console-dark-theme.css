@@ -2242,6 +2242,10 @@ a.raml-console-resource-path-active {
   color: #fff;
 }
 
+h2 span.raml-console-resource-path-active {
+  color: #fff;
+}
+
 .raml-console-resource-proxy {
   position: absolute;
   right: 5px;
@@ -4315,6 +4319,7 @@ span.raml-console-side-bar-required-field {
 
 .raml-console-documentation-header {
   background: #252f3f;
+  color: white;
   position: relative;
 }
 

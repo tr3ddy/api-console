@@ -456,6 +456,10 @@ a.resource-path-active {
   color: $color-console-heading-text;
 }
 
+h2 span.resource-path-active{
+  color: #fff;
+}
+
 .resource-proxy {
   position: absolute;
   right: 5px;
